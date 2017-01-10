@@ -27,14 +27,18 @@ p {
 
 
 
-/*font-weight*/
+/*font-weight , bold, normal - you can  also use 100-800 depending on the font*/
 
 p {
 	font-weight: bold;
-	
+
 }
 
-/*line-height*/
+/*line-height - is determined by the font itself*/
+
+p {
+	line-height: 2;
+}
 
 /*text-align*/
 
