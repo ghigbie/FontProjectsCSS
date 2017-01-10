@@ -7,7 +7,25 @@ h1{
 	font-family: Georgia;
 }
 
-/*font-size*/
+/*font-size , we can use px or em */
+
+body {
+	font-size: 10px;
+}
+
+h1 {
+	font-size: 5.0em;
+}
+
+p {
+	font-size: 2.0em;
+}
+
+#ham {
+	font-size: 2.0em;
+}
+
+
 
 /*font-weight*/
 
