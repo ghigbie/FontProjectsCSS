@@ -1,4 +1,11 @@
 /*font-fmaily*/
+p {
+	font-family: Arial; /*some fonts may require quotes*/
+}
+
+h1{
+	font-family: Georgia;
+}
 
 /*font-size*/
 
