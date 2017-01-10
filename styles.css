@@ -1,10 +1,11 @@
 /*font-fmaily*/
 p {
-	font-family: Arial; /*some fonts may require quotes*/
+	font-family: "Arima Madurai"; /*some fonts may require quotes*/
 }
 
 h1{
-	font-family: Georgia;
+	font-family: "Slabo 27px";
+
 }
 
 /*font-size , we can use px or em */
@@ -30,7 +31,7 @@ p {
 /*font-weight , bold, normal - you can  also use 100-800 depending on the font*/
 
 p {
-	font-weight: bold;
+	font-weight: normal;
 
 }
 
